@@ -1,0 +1,8 @@
+
+X	java:S125$"<This block of commented-out lines of code should be removed.(®Í8Œ—Ã£.
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ï•Şøÿÿÿÿ8è™¾£.
+\
+java:S1854#":Remove this useless assignment to local variable "result".(ç³ìµüÿÿÿÿ8Œ—Ã£.
+M
+java:S1481#"+Remove this unused "result" local variable.(ç³ìµüÿÿÿÿ8Œ—Ã£.
